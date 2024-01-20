@@ -9,6 +9,10 @@ In the tests I redirect the flow of one of the horns of the nozzle duct, so as t
 **Duct A** - The current design shows a range flow velocity range between 3.4 to 3.9 m/s.   
 **Duct B** - The new design shows a range or flow velocity between 4.2 to sometims up to 4.8 m/s at some spots.
 
+I am aware that the flow measurement is not consistent and varies since I'm not holding the anemometer in exactly the same spot every time. But the change is significant.    
+Chaging the average flow speed from 3.65 m/s to 4.5 m/s would certanly benefit some users.
+If nothing else, you can run the fan at a lowe rpm and hence lower noise.   
+
 https://github.com/0ut5ider/EVA_4028_High_Flow_Duct/assets/88666133/834bde17-1405-4503-b53a-58a323b9f26b
 
 ## Visual comparison of the differences
