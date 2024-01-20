@@ -34,12 +34,19 @@ https://github.com/0ut5ider/EVA_4028_High_Flow_Duct/assets/88666133/c6780624-e58
 
 The effective fan cross section area is area over which the blades move the air. For the 4028 fan this area is 681 mm^2.   
 This comes from the full fan area created by duct the inner diameter of 38mm (which equals 1134mm^2), and from that we subtract the inner hub area created by the 24mm inner hub (which equals 452 mm^2)   
-After the airflow is passes thgrough the fan, it expands in the large volume behind the fan. There is also a lot of turbulance back there since expansion happens suddenly. 
+After the airflow is passes thgrough the fan, it expands in the large volume behind the fan. This causes a lot of turbulance back there since expansion happens suddenly. 
+When the area increases, the pressure increases and more importantly flow velocity decreases ([Bernoulli's principle at work](https://en.wikipedia.org/wiki/Bernoulli%27s_principle) ). At the exit of the fan duct, the area restricts to 543 mm^2 (the two rectangular openings combined) so the pressure drops and velocity increases again. All these changes in pressure and velocity in one duct adds up to significant inefficiencies. 
 
-In order to mainltain laminar flow, we must retain the fan area (681 mm^2) throughout the duct. That is where this internal piece comes into effect. It maintains the airflow area to roughtly 700 mm^2 cross sectional area.   
+The duct mod tries to reduce the amount of pressure and velocity changes throughout the duct. This results in better airflow.   
+In order to good laminar flow, we must retain the fan area (681 mm^2) throughout the duct. That is where this internal piece comes into effect. It maintains the airflow area to roughtly 700 mm^2 cross sectional area.   
 This increased laminar flow (with less turbulance) results in better flow at the nozzle.
 
 ## CAD
 
 The STP file is available in the github repo.
 This duct is a mod to the Heat Insert version of the EVA duct.
+
+## Future Work
+
+This is the first stab at improving the airflow through the duct. There may be further optimizations taht can be made to the design. 
+- 
