@@ -28,9 +28,9 @@ https://github.com/0ut5ider/EVA_4028_High_Flow_Duct/assets/88666133/c6780624-e58
 
 ## Theory
 
-The effective fan cross section area is area over which the blades move the air. For the 4028 fan this area is 681 mm^2.
-This comes from the full fan area created by duct the inner diameter of 38mm (which equals 1134mm^2), and from that we subtract the inner hub area created by the 24mm inner hub (which equals 452 mm^2)
+The effective fan cross section area is area over which the blades move the air. For the 4028 fan this area is 681 mm^2.   
+This comes from the full fan area created by duct the inner diameter of 38mm (which equals 1134mm^2), and from that we subtract the inner hub area created by the 24mm inner hub (which equals 452 mm^2)   
 After the airflow is passes thgrough the fan, it expands in the large volume behind the fan. There is also a lot of turbulance back there since expansion happens suddenly. 
 
-In order to mainltain laminar flow, we must retain the fan area (681 mm^2) throughout the duct. That is where this internal piece comes into effect. It maintains the airflow area to roughtly 700 mm^2 cross sectional area.
+In order to mainltain laminar flow, we must retain the fan area (681 mm^2) throughout the duct. That is where this internal piece comes into effect. It maintains the airflow area to roughtly 700 mm^2 cross sectional area.   
 This increased laminar flow (with less turbulance) results in better flow at the nozzle.
