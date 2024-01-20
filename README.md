@@ -13,7 +13,8 @@ https://github.com/0ut5ider/EVA_4028_High_Flow_Duct/assets/88666133/834bde17-140
 
 ## Visual comparison of the differences
 
-This is the duct you're familiar with 
+This is the duct you're familiar with from the EVA project
+https://main.eva-3d.page/heat_insert/cooling_inlet/40mm/
 
 ![image](https://github.com/0ut5ider/EVA_4028_High_Flow_Duct/assets/88666133/cf9946fe-da1c-4520-a527-a8cef17b9a9a)
 
