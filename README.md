@@ -14,16 +14,16 @@ https://github.com/0ut5ider/EVA_4028_High_Flow_Duct/assets/88666133/834bde17-140
 ## Visual comparison of the differences
 
 This is the duct you're familiar with 
+
 ![image](https://github.com/0ut5ider/EVA_4028_High_Flow_Duct/assets/88666133/cf9946fe-da1c-4520-a527-a8cef17b9a9a)
 
 The modifications are the addition of a central piece of plastic behind the 4028 fan. 
 
 ![image](https://github.com/0ut5ider/EVA_4028_High_Flow_Duct/assets/88666133/8c99bcb2-5731-486d-a148-b0581aac280b)
 
-For the purposes of the testing I printed a Two-Horn noxxle duct as well as part of the EVA back piece which connects the fan duct to the nozzle duct.
+For the purposes of the testing I printed a Two-Horn nozzle duct as well as part of the EVA back piece which connects the fan duct to the nozzle duct.
 
 https://github.com/0ut5ider/EVA_4028_High_Flow_Duct/assets/88666133/c6780624-e585-49d4-9ce4-8a394958fdb8
-
 
 ## Theory
 
