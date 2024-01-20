@@ -1,7 +1,7 @@
 # 4028 High Flow Duct for EVA toolhead
 
 This is a modified duct for the EVA 4028 Fan Duct.
-It optomizes the fan flow to achieve higher flow at the exit point at the nozzle.
+It optimizes the fan flow to achieve higher flow at the exit point at the nozzle.
 
 This is comparison between the current EVA 4028 duct design and the new modified duct.
 In the tests I redirect the flow of one of the horns of the nozzle duct, so as to only measure the flow from one side.
