@@ -48,5 +48,6 @@ This duct is a mod to the Heat Insert version of the EVA duct.
 
 ## Future Work
 
-This is the first stab at improving the airflow through the duct. There may be further optimizations taht can be made to the design. 
-- 
+This is the first stab at improving the airflow through the duct. There may be further optimizations that can be made to the design. 
+- optimize the shape of the inner wall to maintain equal distance all around
+- a better way of maintaing airflow cross sectional area at the transition and flow split into the two openings of the duct end.
