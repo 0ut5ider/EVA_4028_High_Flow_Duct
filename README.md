@@ -6,8 +6,8 @@ It optomizes the fan flow to achieve higher flow at the exit point at the nozzle
 This is comparison between the current EVA 4028 duct design and the new modified duct.
 In the tests I redirect the flow of one of the horns of the nozzle duct, so as to only measure the flow from one side.
 
-Duct A - The current design shows a range flow velocity range between 3.4 to 3.9 m/s.   
-Duct B - The new design shows a range or flow velocity between 4.2 to sometims up to 4.8 m/s at some spots.
+**Duct A** - The current design shows a range flow velocity range between 3.4 to 3.9 m/s.   
+**Duct B** - The new design shows a range or flow velocity between 4.2 to sometims up to 4.8 m/s at some spots.
 
 https://github.com/0ut5ider/EVA_4028_High_Flow_Duct/assets/88666133/834bde17-1405-4503-b53a-58a323b9f26b
 
