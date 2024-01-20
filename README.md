@@ -21,7 +21,8 @@ The modifications are the addition of a central piece of plastic behind the 4028
 ![image](https://github.com/0ut5ider/EVA_4028_High_Flow_Duct/assets/88666133/8c99bcb2-5731-486d-a148-b0581aac280b)
 
 
-https://github.com/0ut5ider/EVA_4028_High_Flow_Duct/assets/88666133/c7d5cf7d-34cf-4877-927e-7827cf15f1c6
+https://github.com/0ut5ider/EVA_4028_High_Flow_Duct/assets/88666133/c6780624-e585-49d4-9ce4-8a394958fdb8
+
 
 ### Theory
 
