@@ -38,3 +38,8 @@ After the airflow is passes thgrough the fan, it expands in the large volume beh
 
 In order to mainltain laminar flow, we must retain the fan area (681 mm^2) throughout the duct. That is where this internal piece comes into effect. It maintains the airflow area to roughtly 700 mm^2 cross sectional area.   
 This increased laminar flow (with less turbulance) results in better flow at the nozzle.
+
+## CAD
+
+The STP file is available in the github repo.
+This duct is a mod to the Heat Insert version of the EVA duct.
